@@ -10,6 +10,9 @@
     "packages/*"
   ],
   "private": true,
+  "dependencies": {
+    "@lerna-sandbox/joe": "^1.0.2"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
