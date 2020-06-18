@@ -1,9 +1,9 @@
 {
   "name": "@lerna-sandbox/fred",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@lerna-sandbox/joe": "^1.0.0"
+    "@lerna-sandbox/joe": "^1.0.1"
   }
 }
